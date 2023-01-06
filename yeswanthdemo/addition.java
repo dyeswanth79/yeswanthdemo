@@ -13,4 +13,5 @@ class Addition
         }
 }
 
-
+ok yeswanth u are solved the one problem succesfully
+its time to took 2 nights
